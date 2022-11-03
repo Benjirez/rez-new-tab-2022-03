@@ -1,8 +1,8 @@
 {
-  "name": "rez-new-tab-2022-02",
+  "name": "rez-new-tab-2022-03",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "box16/app.js",
   "dependencies": {
     "accepts": "^1.3.5",
     "array-flatten": "^1.1.1",
